@@ -2,7 +2,7 @@
 public class CoreJavaBrushUp1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//TODO Auto-generated method stub
 		int number=5;
 		String name="Ashish Mahajan";
 		char symbol='A';
